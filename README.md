@@ -41,7 +41,7 @@ Player's house and screen(stats shown):
 <br>
 2.border crossing allowed:
 <br>
-![allowed](https://imgur.com/wDthmZD.jpeg)
+![allowed](https://imgur.com/a6M6z3B.jpeg)
 <br>
 <br>
 
