@@ -47,7 +47,8 @@ Player's house and screen(stats shown):
 
 ### Church location:
 Church:
-![church](https://imgur.com/wDthmZD.jpeg)
+<br>
+![church](https://imgur.com/8rbLJfD.jpeg)
 <br>
 1.before challenging boss
 <br>
@@ -65,4 +66,5 @@ Frog (follows player)
 <br>
 <br>
 Slider (mutant attacking player by sliding around)
+<br>
 ![mutant](https://imgur.com/b2auofF.jpeg)
