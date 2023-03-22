@@ -1,0 +1,998 @@
+fileFormatVersion: 2
+guid: 6e43c1d14b3a3054e9de7e0d6c5681d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3929997008692147774
+    second: mobila_0
+  - first:
+      213: 6648576229673176165
+    second: mobila_1
+  - first:
+      213: 6661896641211581927
+    second: mobila_2
+  - first:
+      213: -3099482574697657750
+    second: mobila_3
+  - first:
+      213: -2031057288177361337
+    second: mobila_4
+  - first:
+      213: 3487477348432175558
+    second: mobila_5
+  - first:
+      213: -6024964101337668803
+    second: mobila_6
+  - first:
+      213: 2779926475682960102
+    second: mobila_7
+  - first:
+      213: 1173403480041232142
+    second: mobila_8
+  - first:
+      213: -3529579404446559546
+    second: mobila_9
+  - first:
+      213: 4571072760687742094
+    second: mobila_10
+  - first:
+      213: 1394523879847117690
+    second: mobila_11
+  - first:
+      213: 5677345746877575089
+    second: mobila_12
+  - first:
+      213: 4234140481752504401
+    second: mobila_13
+  - first:
+      213: 107861873714233624
+    second: mobila_14
+  - first:
+      213: 6519497637024378755
+    second: mobila_15
+  - first:
+      213: 8194655518553364653
+    second: mobila_16
+  - first:
+      213: 6078089084879515169
+    second: mobila_17
+  - first:
+      213: -4610905165172907587
+    second: mobila_18
+  - first:
+      213: 6126192749725783826
+    second: mobila_19
+  - first:
+      213: -4850214309082574032
+    second: mobila_20
+  - first:
+      213: -69244531899727248
+    second: mobila_21
+  - first:
+      213: -5871943861100788357
+    second: mobila_22
+  - first:
+      213: -8428327788999431418
+    second: mobila_23
+  - first:
+      213: -913587233105773379
+    second: mobila_24
+  - first:
+      213: -1801114793072057497
+    second: mobila_25
+  - first:
+      213: -3023390153322013299
+    second: mobila_26
+  - first:
+      213: -6458714223688510100
+    second: mobila_27
+  - first:
+      213: 5078711783721719218
+    second: mobila_28
+  - first:
+      213: 3019459094998489677
+    second: mobila_29
+  - first:
+      213: 2284098730171892638
+    second: mobila_30
+  - first:
+      213: -8558414071559952115
+    second: mobila_31
+  - first:
+      213: 7680921139922598143
+    second: mobila_32
+  - first:
+      213: 4281448231692581935
+    second: mobila_33
+  - first:
+      213: 9218885911846702843
+    second: mobila_34
+  - first:
+      213: 3277557011253387010
+    second: mobila_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mobila_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 342
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98e88ea88d579c0800000000000000
+      internalID: -3929997008692147774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 340
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c86cfeadc744c50800000000000000
+      internalID: 6648576229673176165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 340
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c8cde2bfc37c50800000000000000
+      internalID: 6661896641211581927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 332
+        width: 94
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24680254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a02a3250d6cf4d0800000000000000
+      internalID: -3099482574697657750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 332
+        width: 100
+        height: 62
+      alignment: 9
+      pivot: {x: 0.50702393, y: 0.23944682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e58bb482c30d3e0800000000000000
+      internalID: -2031057288177361337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 258
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c16583cb22066030800000000000000
+      internalID: 3487477348432175558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 258
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33a94b4217036ca0800000000000000
+      internalID: -6024964101337668803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 248
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e259c4a668449620800000000000000
+      internalID: 2779926475682960102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 258
+        width: 96
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5085109, y: 0.18372616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0790168f34c84010800000000000000
+      internalID: 1173403480041232142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 212
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29d6f6b3a640fc0800000000000000
+      internalID: -3529579404446559546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 194
+        width: 28
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.13402149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cc14f0576bf6f30800000000000000
+      internalID: 4571072760687742094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 194
+        width: 28
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.14664143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73461984185a5310800000000000000
+      internalID: 1394523879847117690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 232
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf66bd70ebf9ce40800000000000000
+      internalID: 5677345746877575089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 56
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5210797, y: 0.22041602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15895ffa550b2ca30800000000000000
+      internalID: 4234140481752504401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 198
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118b8b7dc33f7100800000000000000
+      internalID: 107861873714233624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 198
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.48264, y: 0.24704306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f26d02f88e97a50800000000000000
+      internalID: 6519497637024378755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da85118e6c349b170800000000000000
+      internalID: 8194655518553364653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e2c61d1d5b95450800000000000000
+      internalID: 6078089084879515169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 146
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ead09e26c200c0800000000000000
+      internalID: -4610905165172907587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 146
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2179af019db940550800000000000000
+      internalID: 6126192749725783826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 146
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033dd9e88c390bcb0800000000000000
+      internalID: -4850214309082574032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 132
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728a71177ef90ff0800000000000000
+      internalID: -69244531899727248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 134
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50437003, y: 0.20721728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b754d025b2aa28ea0800000000000000
+      internalID: -5871943861100788357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba226f780980b80800000000000000
+      internalID: -8428327788999431418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 90
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcf56b70494253f0800000000000000
+      internalID: -913587233105773379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632d3f63a72107e0800000000000000
+      internalID: -1801114793072057497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd3d59ca2ca06d0800000000000000
+      internalID: -3023390153322013299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65984f12a90e56a0800000000000000
+      internalID: -6458714223688510100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 44
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5d25985753b7640800000000000000
+      internalID: 5078711783721719218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 60
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a15339c0647e920800000000000000
+      internalID: 3019459094998489677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 58
+        width: 24
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17591834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9301d381bfb2bf10800000000000000
+      internalID: 2284098730171892638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 58
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09e6ff0fb76a3980800000000000000
+      internalID: -8558414071559952115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8ffdcd41d189a60800000000000000
+      internalID: 7680921139922598143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb24e8b72ca6b30800000000000000
+      internalID: 4281448231692581935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfec970a4ef00ff70800000000000000
+      internalID: 9218885911846702843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobila_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4
+        width: 134
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f59da8cb83c7d20800000000000000
+      internalID: 3277557011253387010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mobila_32: 7680921139922598143
+      mobila_16: 8194655518553364653
+      mobila_25: -1801114793072057497
+      mobila_26: -3023390153322013299
+      mobila_15: 6519497637024378755
+      mobila_30: 2284098730171892638
+      mobila_33: 4281448231692581935
+      mobila_35: 3277557011253387010
+      mobila_22: -5871943861100788357
+      mobila_1: 6648576229673176165
+      mobila_0: -3929997008692147774
+      mobila_31: -8558414071559952115
+      mobila_9: -3529579404446559546
+      mobila_6: -6024964101337668803
+      mobila_7: 2779926475682960102
+      mobila_3: -3099482574697657750
+      mobila_24: -913587233105773379
+      mobila_13: 4234140481752504401
+      mobila_8: 1173403480041232142
+      mobila_23: -8428327788999431418
+      mobila_4: -2031057288177361337
+      mobila_5: 3487477348432175558
+      mobila_11: 1394523879847117690
+      mobila_14: 107861873714233624
+      mobila_18: -4610905165172907587
+      mobila_27: -6458714223688510100
+      mobila_29: 3019459094998489677
+      mobila_34: 9218885911846702843
+      mobila_19: 6126192749725783826
+      mobila_2: 6661896641211581927
+      mobila_10: 4571072760687742094
+      mobila_12: 5677345746877575089
+      mobila_17: 6078089084879515169
+      mobila_21: -69244531899727248
+      mobila_28: 5078711783721719218
+      mobila_20: -4850214309082574032
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
