@@ -46,7 +46,7 @@ Player's house and screen(stats shown):
 <br>
 
 ### Church location:
-<br>
+Church:
 ![church](https://imgur.com/wDthmZD.jpeg)
 <br>
 1.before challenging boss
